@@ -1,0 +1,187 @@
+===============Aula2===================
+
+tecnologia criada em 1993 
+
+criador: 
+- www
+- html
+
+em 1994
+
+criação da natscape
+
+em 1995 
+
+foi criado pela netscape o JavaScript, que foi uma jogada de market pq na epoca o Java fasia sucesso.
+
+em 1997 
+
+o JavaScript para o a padronização do ecmaScript, 
+
+em 2002 
+
+foi criado o firefox , por fundadores da netscape.
+
+em 2008 foi criado o google chrome.
+
+em 2009
+
+o V8 que é o motor do JavaScript, roda por traz do navegador google chrome.
+
+em 2010
+
+node.js é uma maquina que roda JavaScript fora do navegador.
+
+-------------EcmaScript-----------------------
+
+versões 
+
+1.0 -1997
+2.0 - 1998
+3.0 - 1999
+Es5 - 2009
+ES6- 2015
+Es2016 
+ES2017
+ES2018 é a mais recente 
+
+---------------------tecnologias-----------------
+
+bibliotecas
+JQuey
+React
+Vue
+electron
+ionic
+cordova
+
+frameworks
+
+angulas
+
+
+--------------------jogos------------------------
+
+phser
+pixiJs
+impact
+melon.js
+Crafty.js
+
+-----------------Fim da aula 2------------------
+
+
+
+
+=====================Aula3==========================
+
+Questionario 
+
+1- Qual Empresa criou a linguagem JavaScript ?
+
+Netscape
+
+2- Java e JavaScripte possuem alguma relação ?
+
+não, são linguagens diferentes
+
+3- O que EcmaScript tem a ver com JavaScript?
+
+EcamScript é o javaScript padronizado
+
+4- Sabia que o programa WhatsApp desktop é criado em JavaScript?
+
+não, porem agora já sei que é por causa da aula anterior 
+
+
+-----------------Primeiros Passos------------------
+
+- fazer anotações 
+- praticar no pc
+- ler manuais e outras referencias
+-resolver problemas 
+- pensar em projetos pessoais
+
+*bibliografia 
+
+JavaScrip: o guia definitivo editora O'Relly
+JavaScrip: guia do programador editora novatec autor Mauricio samy silva
+
+guia de referencia mozilla (develope mozilla.org)
+guia de referencia Ecma    (site ecma ecma262)
+
+--------------definições de software--------------
+navegador
+VsCode
+node.js(para facilitar rodar o JavaScript fora do navegador)
+
+---------------------Fim aula 3-----------------------
+
+=====================aula 4==========================
+
+  window.alert('minha primeiro mensagem')//primeiro comando .
+  
+  window.confirm('você está gostando de javaScript')
+
+  window.prompt('Qual o seu nome')
+
+===================inicio modulo B===================
+
+-armazenamento de dados 
+-tratamentos de dados
+-operações com dados
+
+variaveis e tipos primitivos
+
+*No JavaScript moderno, além de ultilizar a palavra var, tambem podemos usar a palavra let
+
+
+posso usar uma string de 3 maneiras 
+
+var n1="teste"
+var n2= `teste3`
+var n3='teste3'
+
+identificador
+
+* - podem começar com 
+letra, $ ou _
+
+* - não podem começar com 
+mumero
+
+* - é possivel usar 
+acentos e simbolos, letras e numeros
+
+* - não podem conter espaços
+* - não podem ser palavras reservadas
+
+-----dicas----
+
+Maiúscula e minuscula fazem diferença
+
+tente escolher nomes coerentes para variaveis 
+
+evite se tornar um 'Programador alfabeto' ou um 'programador contador'
+
+tipos primitivos 
+Number 
+  Infinity
+  NaN
+string
+boolean
+nul
+undefined
+object
+  array
+function
+
+typeof
+
+----------------final da aula 5-----------------------------
+
+
+
+
+
+
