@@ -180,6 +180,34 @@ typeof
 
 ----------------final da aula 5-----------------------------
 
+=========================aula06==============================
+window.prompt('Digite um número: ') o comando retorna um string 
+
+Number.parseInt(n) converte um numero para inteiro
+
+Number.parseFloat(n) converte um numero para ponto flutuante
+
+Number(n) isso é um jeito de o javaScript se virar., convertendo pra o que ele achar melhor 
+
+
+Convertendo de numero para string
+
+string(n)
+n.tostring 
+
+------------templete string-------------
+
+${variavel}
+
+s.length //quantos caracteres a string tem
+s.toUpperCase() //tudo para 'MAIUSCULAS'
+s.toLowerCase() //tudo para 'minuscula'
+
+esses comando serve para formatação de string
+
+n1.toFixed(2) // serve para determina quantos pontos apos a virgula
+n1.toFixed(2).replace('.',',') // o replace serve para trocar uma coisa pela outra.
+n1.toLocaleString('pt-BR', {style: 'currency', currency: 'BRL'})//converte para moeda 
 
 
 
