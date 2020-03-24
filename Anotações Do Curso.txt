@@ -230,7 +230,8 @@ Ordem precedência de operação
 simplificado se a variavel n for receber ela e for somar pode se usar += ou -+ ou *=
 **=.
 
-incremento ++ e --
+incremento ++n e --n
+ou n++ e n--
 
 
 atribuição
