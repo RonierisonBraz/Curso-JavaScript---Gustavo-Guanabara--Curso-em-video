@@ -209,6 +209,34 @@ n1.toFixed(2) // serve para determina quantos pontos apos a virgula
 n1.toFixed(2).replace('.',',') // o replace serve para trocar uma coisa pela outra.
 n1.toLocaleString('pt-BR', {style: 'currency', currency: 'BRL'})//converte para moeda 
 
+---------aula 7 
+Operadores
+
+aritmeticos
+
+5 + 2 = 7 adição
+5 - 2 = 3 subtração
+5 * 2 = 10 multiplicação
+5 / 2 = 2.5 divisão de numero inteiro
+5 % 2 = 1 resto da divisão
+5 ** 2 = potencia
+
+Ordem precedência de operação 
+1 ()
+2 **
+3 * / %
+4 + -
+
+simplificado se a variavel n for receber ela e for somar pode se usar += ou -+ ou *=
+**=.
+
+incremento ++ e --
+
+
+atribuição
+relacionais
+lógicos
+ternário
 
 
 
